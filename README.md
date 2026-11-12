@@ -1,2 +1,1 @@
-# temi-tayo
 # temi--tayo
